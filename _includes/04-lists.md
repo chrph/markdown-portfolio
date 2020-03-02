@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+#### Favorite things
+* Vietnamese food
+* Altered Carbon
+* Working from home
+* Pedestrian friendly cities
+* Flan
